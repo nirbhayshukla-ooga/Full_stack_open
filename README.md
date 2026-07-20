@@ -6,5 +6,3 @@ The main focus is on building single page web applications with ReactJS that use
 
 # What does this repo contain?
 This repo contains my submissions to the exercises on full stack open.
-# First Commit
-This is a first commit on git.
